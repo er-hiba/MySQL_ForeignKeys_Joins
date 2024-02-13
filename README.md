@@ -1,1 +1,2 @@
-# MySQL_ForeignKeys_Joins
+## Description
+This repository contains SQL scripts demonstrating the implementation of foreign keys, joins, and other database operations in MySQL. The included operations.sql file provides a comprehensive overview of creating tables, setting up foreign key constraints, performing joins, and managing data integrity. Additionally, it showcases practices such as table duplication for backup purposes.
